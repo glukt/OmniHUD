@@ -1,0 +1,3073 @@
+{
+  "Turael / Aya": [
+    {
+      "monster": "Banshees",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "15 Slayer, completion of Priest in Peril"
+    },
+    {
+      "monster": "Bats",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Bears",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": null
+    },
+    {
+      "monster": "Birds",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Cave bugs",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "7 Slayer"
+    },
+    {
+      "monster": "Cave crawlers",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "10 Slayer"
+    },
+    {
+      "monster": "Cave slime",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "17 Slayer"
+    },
+    {
+      "monster": "Cows",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Crawling Hands",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "5 Slayer, completion of Priest in Peril"
+    },
+    {
+      "monster": "Dogs",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Dwarves",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 25,
+      "requirement": null
+    },
+    {
+      "monster": "Ghosts",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Goblins",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Icefiends",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": null
+    },
+    {
+      "monster": "Kalphites",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Lizards",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "22 Slayer"
+    },
+    {
+      "monster": "Minotaurs",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": null
+    },
+    {
+      "monster": "Monkeys",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Rats",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Scorpions",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Skeletons",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Sourhogs",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 25,
+      "requirement": "Completion of A Porcine of Interest"
+    },
+    {
+      "monster": "Spiders",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Wolves",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Zombies",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    }
+  ],
+  "Spria": [
+    {
+      "monster": "Banshees",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "15 Slayer, completion of Priest in Peril"
+    },
+    {
+      "monster": "Bats",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Bears",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": null
+    },
+    {
+      "monster": "Birds",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Cave bugs",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "7 Slayer"
+    },
+    {
+      "monster": "Cave crawlers",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "10 Slayer"
+    },
+    {
+      "monster": "Cave slime",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "17 Slayer"
+    },
+    {
+      "monster": "Cows",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Crawling Hands",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "5 Slayer, completion of Priest in Peril"
+    },
+    {
+      "monster": "Dogs",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Dwarves",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 25,
+      "requirement": null
+    },
+    {
+      "monster": "Ghosts",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Goblins",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Icefiends",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": null
+    },
+    {
+      "monster": "Kalphites",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Lizards",
+      "weight": 8,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "22 Slayer"
+    },
+    {
+      "monster": "Minotaurs",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": null
+    },
+    {
+      "monster": "Monkeys",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Rats",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Scorpions",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Skeletons",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Sourhogs",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 25,
+      "requirement": "Completion of A Porcine of Interest"
+    },
+    {
+      "monster": "Spiders",
+      "weight": 6,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Wolves",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    },
+    {
+      "monster": "Zombies",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": null
+    }
+  ],
+  "Mazchna": [
+    {
+      "monster": "Banshees",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "15 Slayer, 20 Combat, completion of Priest in Peril",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Catablepon",
+      "weight": 8,
+      "minAmount": 20,
+      "maxAmount": 30,
+      "requirement": "35 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Cave bugs",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "7 Slayer",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Cave crawlers",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "10 Slayer, 10 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Cave slime",
+      "weight": 8,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "17 Slayer, 15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Cockatrice",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "25 Slayer, 25 Combat, 20 Defence",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Crabs",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "1 Slayer",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Crawling Hands",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "5 Slayer, completion of Priest in Peril",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Lizards",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "22 Slayer",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Mogres",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "32 Slayer, 30 Combat, completion of Skippy and the Mogres",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Pyrefiends",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "30 Slayer, 25 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Rockslugs",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "20 Slayer, 20 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Shades",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 70,
+      "requirement": "30 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Bats",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "5 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Dogs",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Flesh Crawlers",
+      "weight": 7,
+      "minAmount": 15,
+      "maxAmount": 25,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ghosts",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "13 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ghouls",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "25 Combat, completion of Priest in Peril",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Hill Giants",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "25 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Hobgoblins",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "20 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ice warriors",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 50,
+      "requirement": "45 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Scorpions",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "7 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Skeletons",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Wall beasts",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "35 Slayer, 30 Combat, 5 Defence",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Wolves",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "20 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Zombies",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "10 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Bears",
+      "weight": 6,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "13 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kalphite",
+      "weight": 6,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Killerwatts",
+      "weight": 6,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "37 Slayer, 50 Combat, completion of Ernest the Chicken",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Vampyres",
+      "weight": 6,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "35 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    }
+  ],
+  "Vannaka": [
+    {
+      "monster": "Gryphons",
+      "weight": 10,
+      "minAmount": 30,
+      "maxAmount": 80,
+      "requirement": "51 Slayer, 45 Sailing, completion of Troubled Tortugans",
+      "extended": "110-160",
+      "locations": null
+    },
+    {
+      "monster": "Aberrant spectres",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "60 Slayer, 65 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Ankou",
+      "weight": 8,
+      "minAmount": 25,
+      "maxAmount": 35,
+      "requirement": "40 Combat",
+      "extended": "91-150",
+      "locations": null
+    },
+    {
+      "monster": "Basilisks",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "40 Slayer, 40 Combat, 20 Defence",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Bloodveld",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "50 Slayer, 50 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Cockatrice",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "25 Slayer, 25 Combat, 20 Defence",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Crabs",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Dust devils",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "65 Slayer, 70 Combat, partial completion of Desert Treasure I",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Harpie Bug Swarms",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "33 Slayer, 45 Combat, 33 Firemaking",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Infernal Mages",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "45 Slayer, 40 Combat, completion of Priest in Peril",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Jellies",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "52 Slayer, 57 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Jungle horrors",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "65 Combat, completion of Cabin Fever",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Otherworldly beings",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "40 Combat, completion of Lost City",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Pyrefiends",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "30 Slayer, 25 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Shades",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "30 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Shadow warriors",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 80,
+      "requirement": "60 Combat, completion of Legends' Quest",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Spiritual creatures",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "63 Slayer, 60 Combat, completion of Death Plateau, level 60 in Agility Strength}} or {{SCP",
+      "extended": "181-250",
+      "locations": null
+    },
+    {
+      "monster": "Turoth",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 90,
+      "requirement": "55 Slayer, 60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Blue dragons",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "65 Combat, partial completion of Dragon Slayer I",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Brine rats",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "47 Slayer, 45 Combat, partial completion of Olaf's Quest",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Dagannoth",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "75 Combat, completion of Horror from the Deep",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Elves",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 70,
+      "requirement": "70 Combat, completion of Regicide",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Fever spiders",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 90,
+      "requirement": "42 Slayer, 40 Combat, partial completion of Rum Deal",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Fire giants",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ghouls",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 40,
+      "requirement": "25 Combat, completion of Priest in Peril",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Hellhounds",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 60,
+      "requirement": "75 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Hill Giants",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "25 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Hobgoblins",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "20 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ice giants",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 80,
+      "requirement": "50 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ice warriors",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "45 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kalphite",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kurask",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "70 Slayer, 65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Lesser demons",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Mogres",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "32 Slayer, 30 Combat, completion of Skippy and the Mogres",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Molanisks",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 50,
+      "requirement": "39 Slayer, 50 Combat, completion of Death to the Dorgeshuun",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Moss giants",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "40 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ogres",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "40 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Trolls",
+      "weight": 7,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Vampyres",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "35 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Werewolves",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 60,
+      "requirement": "60 Combat, completion of Priest in Peril",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Crocodiles",
+      "weight": 6,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "50 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Sea snakes",
+      "weight": 6,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "40 Slayer, 50 Combat, completion of Royal Trouble",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Terror dogs",
+      "weight": 6,
+      "minAmount": 20,
+      "maxAmount": 45,
+      "requirement": "40 Slayer, 60 Combat, completion of Haunted Mine",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Abyssal demons",
+      "weight": 5,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "85 Slayer, 85 Combat, completion of Priest in Peril or Fairytale II - Cure a Queen",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Gargoyles",
+      "weight": 5,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "75 Slayer, 80 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 5,
+      "minAmount": 40,
+      "maxAmount": 90,
+      "requirement": "80 Slayer, 85 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    }
+  ],
+  "Chaeldar": [
+    {
+      "monster": "Abyssal demons",
+      "weight": 12,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "85 Slayer, 85 Combat, completion of Priest in Peril or Fairytale II - Cure a Queen",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Cave kraken",
+      "weight": 12,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "87 Slayer, 80 Combat, 50 Magic",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "Fire giants",
+      "weight": 12,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kurask",
+      "weight": 12,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "70 Slayer, 65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 12,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "80 Slayer, 85 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Spiritual creatures",
+      "weight": 12,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "63 Slayer, 60 Combat, completion of Death Plateau, level 60 in Agility Strength}} or {{SCP",
+      "extended": "181-250",
+      "locations": null
+    },
+    {
+      "monster": "Custodian stalker",
+      "weight": 11,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "54 Slayer, completion of Shadows of Custodia",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Dagannoth",
+      "weight": 11,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "75 Combat, completion of Horror from the Deep",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Gargoyles",
+      "weight": 11,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "75 Slayer, 80 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Kalphite",
+      "weight": 11,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Trolls",
+      "weight": 11,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Black demons",
+      "weight": 10,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "80 Combat",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Cave horrors",
+      "weight": 10,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "58 Slayer, 85 Combat, completion of Cabin Fever",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Gryphons",
+      "weight": 10,
+      "minAmount": 60,
+      "maxAmount": 100,
+      "requirement": "51 Slayer, 45 Sailing, completion of Troubled Tortugans",
+      "extended": "140-180",
+      "locations": null
+    },
+    {
+      "monster": "Jellies",
+      "weight": 10,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "52 Slayer, 57 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Jungle horrors",
+      "weight": 10,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "65 Combat, completion of Cabin Fever",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Turoth",
+      "weight": 10,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "55 Slayer, 60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Aviansie",
+      "weight": 9,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": null,
+      "extended": "130-250",
+      "locations": null
+    },
+    {
+      "monster": "Dust devils",
+      "weight": 9,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "65 Slayer, 70 Combat, partial completion of Desert Treasure I",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Greater demons",
+      "weight": 9,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "70 Combat",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Hellhounds",
+      "weight": 9,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "75 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Lesser demons",
+      "weight": 9,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Aberrant spectres",
+      "weight": 8,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "60 Slayer, 65 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Bloodveld",
+      "weight": 8,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "50 Slayer, 50 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Blue dragons",
+      "weight": 8,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "65 Combat, partial completion of Dragon Slayer I",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Crabs",
+      "weight": 8,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "1 Slayer",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Elves",
+      "weight": 8,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "70 Combat, completion of Regicide",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Lizardmen",
+      "weight": 8,
+      "minAmount": 50,
+      "maxAmount": 90,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Shadow warriors",
+      "weight": 8,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "60 Combat, completion of Legends' Quest",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "TzHaar",
+      "weight": 8,
+      "minAmount": 90,
+      "maxAmount": 150,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "}\nNote: Chaeldar is a valid contact for the Astral Contact spell, and you can obtain tasks from them.  It is part of the Lunar spellbook. \n\n==Dialogue==\n\n\n==Changes==\n\n{{Subject changes",
+      "weight": 8,
+      "minAmount": 26,
+      "maxAmount": 26,
+      "requirement": "poll = Poll 83 - Castle Wars, New Player Changes & More",
+      "extended": "update = Poll 83 QoL Changes",
+      "locations": null
+    },
+    {
+      "monster": "Basilisks",
+      "weight": 7,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "40 Slayer, 40 Combat, 20 Defence",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Brine rats",
+      "weight": 7,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "47 Slayer, 45 Combat, completion of Olaf's Quest",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Fever spiders",
+      "weight": 7,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": "42 Slayer, 40 Combat, partial completion of Rum Deal",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Fossil Island Wyverns",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "66 Slayer, 60 Combat, completion of Bone Voyage and Elemental Workshop I",
+      "extended": "55-75",
+      "locations": null
+    },
+    {
+      "monster": "Mutated zygomites",
+      "weight": 7,
+      "minAmount": 8,
+      "maxAmount": 15,
+      "requirement": "57 Slayer, 60 Combat, completion of Lost City",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Skeletal Wyverns",
+      "weight": 7,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "72 Slayer, 70 Combat, completion of Elemental Workshop I",
+      "extended": "50-70",
+      "locations": null
+    },
+    {
+      "monster": "Vampyres",
+      "weight": 6,
+      "minAmount": 80,
+      "maxAmount": 100,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Warped creatures",
+      "weight": 6,
+      "minAmount": 70,
+      "maxAmount": 130,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Wyrms",
+      "weight": 6,
+      "minAmount": 60,
+      "maxAmount": 100,
+      "requirement": "62 Slayer",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Lesser Nagua",
+      "weight": 4,
+      "minAmount": 50,
+      "maxAmount": 100,
+      "requirement": "48 Slayer, completion of Perilous Moons",
+      "extended": null,
+      "locations": null
+    }
+  ],
+  "Konar quo Maten": [
+    {
+      "monster": "Metal dragons",
+      "weight": 15,
+      "minAmount": 30,
+      "maxAmount": 40,
+      "requirement": "85 Combat, partial completion of Dragon Slayer I",
+      "extended": "150-200",
+      "locations": "Brimhaven Dungeon, Catacombs of Kourend, Isle of Souls Dungeon, Lithkren Vault"
+    },
+    {
+      "monster": "Drakes",
+      "weight": 10,
+      "minAmount": 75,
+      "maxAmount": 140,
+      "requirement": "84 Slayer",
+      "extended": null,
+      "locations": "Karuulm Slayer Dungeon"
+    },
+    {
+      "monster": "Hydras",
+      "weight": 10,
+      "minAmount": 125,
+      "maxAmount": 190,
+      "requirement": "95 Slayer",
+      "extended": null,
+      "locations": "Karuulm Slayer Dungeon"
+    },
+    {
+      "monster": "Wyrms",
+      "weight": 10,
+      "minAmount": 125,
+      "maxAmount": 190,
+      "requirement": "62 Slayer",
+      "extended": "200-250",
+      "locations": "Karuulm Slayer Dungeon, Neypotzli, Charred Dungeon, Wyrmscraig"
+    },
+    {
+      "monster": "Abyssal demons",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "85 Slayer, 85 Combat, completion of Priest in Peril or Fairytale II - Cure a Queen",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, Abyss, Slayer Tower"
+    },
+    {
+      "monster": "Black demons",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "80 Combat",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, Chasm of Fire, Taverley Dungeon, Brimhaven Dungeon"
+    },
+    {
+      "monster": "Bloodveld",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "50 Slayer, 50 Combat",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, God Wars Dungeon, Iorwerth Dungeon, Meiyerditch Laboratories, Slayer Tower, Stronghold Slayer Dungeon"
+    },
+    {
+      "monster": "Cave kraken",
+      "weight": 9,
+      "minAmount": 80,
+      "maxAmount": 100,
+      "requirement": "87 Slayer, 80 Combat, 50 Magic",
+      "extended": "150-200",
+      "locations": "Kraken Cove"
+    },
+    {
+      "monster": "Fire giants",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "65 Combat",
+      "extended": null,
+      "locations": "Brimhaven Dungeon, Catacombs of Kourend, Isle of Souls Dungeon, Giants' Den, Karuulm Slayer Dungeon, Stronghold Slayer Dungeon, Waterfall Dungeon"
+    },
+    {
+      "monster": "Kalphite",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": "Kalphite Lair, Kalphite Cave"
+    },
+    {
+      "monster": "Dagannoth",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "75 Combat, completion of Horror from the Deep",
+      "extended": null,
+      "locations": "Catacombs of Kourend, Lighthouse, Waterbirth Island, Jormungand's Prison"
+    },
+    {
+      "monster": "Hellhounds",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "75 Combat",
+      "extended": null,
+      "locations": "Karuulm Slayer Dungeon, Catacombs of Kourend, Stronghold Slayer Dungeon, Taverley Dungeon, Witchaven Dungeon"
+    },
+    {
+      "monster": "Lizardmen",
+      "weight": 8,
+      "minAmount": 90,
+      "maxAmount": 110,
+      "requirement": null,
+      "extended": null,
+      "locations": "Battlefront, Lizardman Canyon, Lizardman Settlement (Lizardman Caves included), Kebos Swamp (area surrounding Xeric's Shrine), Molch (Lizardman Temple included)"
+    },
+    {
+      "monster": "Greater demons",
+      "weight": 7,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "75 Combat",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, Chasm of Fire, Isle of Souls Dungeon, Karuulm Slayer Dungeon, Brimhaven Dungeon"
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 7,
+      "minAmount": 110,
+      "maxAmount": 110,
+      "requirement": "80 Slayer, 85 Combat",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, Iorwerth Dungeon, Slayer Tower"
+    },
+    {
+      "monster": "Smoke devils",
+      "weight": 7,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "93 Slayer, 85 Combat",
+      "extended": null,
+      "locations": "Smoke Devil Dungeon"
+    },
+    {
+      "monster": "Aberrant spectres",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "60 Slayer, 65 Combat",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, Slayer Tower, Stronghold Slayer Cave"
+    },
+    {
+      "monster": "Aviansie",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": "God Wars Dungeon"
+    },
+    {
+      "monster": "Black dragons",
+      "weight": 6,
+      "minAmount": 10,
+      "maxAmount": 15,
+      "requirement": "80 Combat, partial completion of Dragon Slayer I",
+      "extended": "40-60",
+      "locations": "Catacombs of Kourend, Myths' Guild Dungeon, Evil Chicken's Lair, Taverley Dungeon"
+    },
+    {
+      "monster": "Dust devils",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "65 Slayer, 70 Combat, partial completion of Desert Treasure I",
+      "extended": "200-250",
+      "locations": "Catacombs of Kourend, Smoke Dungeon"
+    },
+    {
+      "monster": "Gargoyles",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "75 Slayer, 80 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": "Slayer Tower"
+    },
+    {
+      "monster": "Jellies",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "52 Slayer, 57 Combat",
+      "extended": null,
+      "locations": "Fremennik Slayer Dungeon, Catacombs of Kourend, Ruins of Tapoyauik"
+    },
+    {
+      "monster": "Trolls",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": "Troll Stronghold, Keldagrim, Death Plateau, South of Mount Quidamortem, Fremennik Isles, Wyrmscraig Cavern"
+    },
+    {
+      "monster": "Ankou",
+      "weight": 5,
+      "minAmount": 50,
+      "maxAmount": 50,
+      "requirement": "40 Combat",
+      "extended": "91-150",
+      "locations": "Stronghold of Security, Stronghold Slayer Dungeon, Catacombs of Kourend"
+    },
+    {
+      "monster": "Basilisks",
+      "weight": 5,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": "40 Slayer, unlocked the ''Basilocked'' ability via spending 80 Slayer reward points",
+      "extended": "200-250",
+      "locations": "Fremennik Slayer Dungeon, Jormungand's Prison"
+    },
+    {
+      "monster": "Dark beasts",
+      "weight": 5,
+      "minAmount": 10,
+      "maxAmount": 15,
+      "requirement": "90 Slayer, 90 Combat, partial completion of Mourning's End Part II",
+      "extended": "110-135",
+      "locations": "Mourner Tunnels, Iorwerth Dungeon"
+    },
+    {
+      "monster": "Fossil Island Wyverns",
+      "weight": 5,
+      "minAmount": 15,
+      "maxAmount": 30,
+      "requirement": "66 Slayer, 60 Combat, completion of Bone Voyage and Elemental Workshop I",
+      "extended": "55-75",
+      "locations": "Wyvern Cave"
+    },
+    {
+      "monster": "Red dragons",
+      "weight": 5,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "68 Combat, partial completion of Dragon Slayer I, unlocked the ''Seeing red'' ability via spending 50 Slayer reward points",
+      "extended": null,
+      "locations": "Brimhaven Dungeon, Catacombs of Kourend, Forthos Dungeon, Myths' Guild Dungeon"
+    },
+    {
+      "monster": "Skeletal Wyverns",
+      "weight": 5,
+      "minAmount": 5,
+      "maxAmount": 12,
+      "requirement": "72 Slayer, 70 Combat, completion of Elemental Workshop I",
+      "extended": "50-70",
+      "locations": "Asgarnian Ice Dungeon"
+    },
+    {
+      "monster": "Blue dragons",
+      "weight": 4,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "65 Combat, partial completion of Dragon Slayer I, completion of Watchtower for access to Ogre Enclave",
+      "extended": null,
+      "locations": "Catacombs of Kourend, Isle of Souls Dungeon, Myths' Guild Dungeon, Ogre Enclave, Ruins of Tapoyauik, Taverley Dungeon"
+    },
+    {
+      "monster": "Vampyres",
+      "weight": 4,
+      "minAmount": 100,
+      "maxAmount": 160,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": "Darkmeyer, Meiyerditch, Slepe, Vampyrium"
+    },
+    {
+      "monster": "Warped creatures",
+      "weight": 4,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": null,
+      "extended": null,
+      "locations": "Poison Waste Dungeon"
+    },
+    {
+      "monster": "Kurask",
+      "weight": 3,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "70 Slayer, 65 Combat, completion of Song of the Elves for access to Iorwerth Dungeon",
+      "extended": null,
+      "locations": "Fremennik Slayer Dungeon, Iorwerth Dungeon"
+    },
+    {
+      "monster": "Turoth",
+      "weight": 3,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "55 Slayer, 60 Combat",
+      "extended": null,
+      "locations": "Fremennik Slayer Dungeon"
+    },
+    {
+      "monster": "Brine rats",
+      "weight": 2,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "47 Slayer, 45 Combat, completion of Olaf's Quest",
+      "extended": null,
+      "locations": "Brine Rat Cavern"
+    },
+    {
+      "monster": "Lesser Nagua",
+      "weight": 2,
+      "minAmount": 55,
+      "maxAmount": 120,
+      "requirement": "48 Slayer, completion of Perilous Moons",
+      "extended": null,
+      "locations": "Neypotzli, Ruins of Tapoyauik, Crypt of Tonali"
+    },
+    {
+      "monster": "Mutated Zygomites",
+      "weight": 2,
+      "minAmount": 10,
+      "maxAmount": 25,
+      "requirement": "57 Slayer, 60 Combat, completion of Lost City",
+      "extended": null,
+      "locations": "Fossil Island, Zanaris"
+    },
+    {
+      "monster": "Waterfiends",
+      "weight": 2,
+      "minAmount": 120,
+      "maxAmount": 170,
+      "requirement": "75 Combat, Progressed the Barbarian Training miniquest up to the Pyre ships section.",
+      "extended": null,
+      "locations": "Ancient Cavern, Iorwerth Dungeon, Kraken Cove"
+    }
+  ],
+  "Nieve / Steve": [
+    {
+      "monster": "Metal dragons",
+      "weight": 12,
+      "minAmount": 30,
+      "maxAmount": 40,
+      "requirement": "85 Combat, partial completion of Dragon Slayer I",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "TzHaar",
+      "weight": 10,
+      "minAmount": 110,
+      "maxAmount": 180,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Abyssal demons",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "85 Slayer, 85 Combat, completion of Priest in Peril or Fairytale II - Cure a Queen",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Black demons",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "80 Combat",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Bloodveld",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "50 Slayer, 50 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Fire giants",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kalphite",
+      "weight": 9,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Araxytes",
+      "weight": 8,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "requirement": "92 Slayer, Completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Boss Monsters",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Custodian stalker",
+      "weight": 8,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": "54 Slayer, completion of Shadows of Custodia",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Dagannoth",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "75 Combat, completion of Horror from the Deep",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Hellhounds",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "75 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Lizardmen",
+      "weight": 8,
+      "minAmount": 90,
+      "maxAmount": 120,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Suqah",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "85 Combat, partial completion of Lunar Diplomacy",
+      "extended": "186-250",
+      "locations": null
+    },
+    {
+      "monster": "Drakes",
+      "weight": 7,
+      "minAmount": 30,
+      "maxAmount": 95,
+      "requirement": "84 Slayer",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Greater demons",
+      "weight": 7,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "75 Combat",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Gryphons",
+      "weight": 7,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": "51 Slayer, 45 Sailing, completion of Troubled Tortugans, Unlocked the ''Wings Spread'' ability via spending 80 Slayer reward points",
+      "extended": "190-250",
+      "locations": null
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 7,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": "80 Slayer, 85 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Smoke devils",
+      "weight": 7,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "93 Slayer, 85 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Wyrms",
+      "weight": 7,
+      "minAmount": 80,
+      "maxAmount": 145,
+      "requirement": "62 Slayer",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Aberrant spectres",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "60 Slayer, 65 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Aviansie",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Basilisks",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "40 Slayer, unlocked the ''Basilocked'' ability via spending 80 Slayer reward points",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Black dragons",
+      "weight": 6,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "80 Combat, partial completion of Dragon Slayer I",
+      "extended": "40-60",
+      "locations": null
+    },
+    {
+      "monster": "Cave kraken",
+      "weight": 6,
+      "minAmount": 100,
+      "maxAmount": 120,
+      "requirement": "87 Slayer, 80 Combat, 50 Magic",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "Dust devils",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "65 Slayer, 70 Combat, partial completion of Desert Treasure I",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Gargoyles",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "75 Slayer, 80 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Spiritual creatures",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "63 Slayer, 60 Combat, completion of Death Plateau, level 60 in Agility Strength}} or {{SCP",
+      "extended": "181-250",
+      "locations": null
+    },
+    {
+      "monster": "Trolls",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Vampyres",
+      "weight": 6,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Warped creatures",
+      "weight": 6,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ankou",
+      "weight": 5,
+      "minAmount": 50,
+      "maxAmount": 90,
+      "requirement": "40 Combat",
+      "extended": "91-150",
+      "locations": null
+    },
+    {
+      "monster": "Aquanites",
+      "weight": 5,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "requirement": "78 Slayer, 73 Sailing, Unlocked the ''Lured In'' ability via spending 80 Slayer reward points",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "Cave horrors",
+      "weight": 5,
+      "minAmount": 120,
+      "maxAmount": 180,
+      "requirement": "58 Slayer, 85 Combat, completion of Cabin Fever",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Dark beasts",
+      "weight": 5,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "90 Slayer, 90 Combat, partial completion of Mourning's End Part II",
+      "extended": "110-135",
+      "locations": null
+    },
+    {
+      "monster": "Fossil Island Wyverns",
+      "weight": 5,
+      "minAmount": 5,
+      "maxAmount": 25,
+      "requirement": "66 Slayer, 60 Combat, completion of Bone Voyage and Elemental Workshop I",
+      "extended": "55-75",
+      "locations": null
+    },
+    {
+      "monster": "Frost dragons",
+      "weight": 5,
+      "minAmount": 60,
+      "maxAmount": 100,
+      "requirement": "87 Sailing, 85 Combat",
+      "extended": "180-240",
+      "locations": null
+    },
+    {
+      "monster": "Red dragons",
+      "weight": 5,
+      "minAmount": 30,
+      "maxAmount": 80,
+      "requirement": "68 Combat, partial completion of Dragon Slayer I, unlocked the ''Seeing red'' ability via spending 50 Slayer reward points",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Skeletal Wyverns",
+      "weight": 5,
+      "minAmount": 5,
+      "maxAmount": 15,
+      "requirement": "72 Slayer, 70 Combat, completion of Elemental Workshop I",
+      "extended": "50-70",
+      "locations": null
+    },
+    {
+      "monster": "Blue dragons",
+      "weight": 4,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "65 Combat, partial completion of Dragon Slayer I",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Elves",
+      "weight": 4,
+      "minAmount": 60,
+      "maxAmount": 90,
+      "requirement": "70 Combat, completion of Regicide",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Scabarites",
+      "weight": 4,
+      "minAmount": 30,
+      "maxAmount": 60,
+      "requirement": "85 Combat, partial completion of Contact!",
+      "extended": "130-170",
+      "locations": null
+    },
+    {
+      "monster": "Brine rats",
+      "weight": 3,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "47 Slayer, 45 Combat, completion of Olaf's Quest",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kurask",
+      "weight": 3,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "70 Slayer, 65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Turoth",
+      "weight": 3,
+      "minAmount": 120,
+      "maxAmount": 185,
+      "requirement": "55 Slayer, 60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Mutated Zygomites",
+      "weight": 2,
+      "minAmount": 10,
+      "maxAmount": 25,
+      "requirement": "57 Slayer, 60 Combat, completion of Lost City",
+      "extended": null,
+      "locations": null
+    }
+  ],
+  "Duradel": [
+    {
+      "monster": "Metal Dragons",
+      "weight": 14,
+      "minAmount": 35,
+      "maxAmount": 45,
+      "requirement": "85 Combat, partial completion of Dragon Slayer I",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "Abyssal Demons",
+      "weight": 12,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "85 Slayer, 85 Combat, completion of Priest in Peril or Fairytale II - Cure a Queen",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Boss Monsters",
+      "weight": 12,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Dark Beasts",
+      "weight": 11,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "90 Slayer, 90 Combat, started Mourning's End Part II",
+      "extended": "110-135",
+      "locations": null
+    },
+    {
+      "monster": "Araxytes",
+      "weight": 10,
+      "minAmount": 60,
+      "maxAmount": 80,
+      "requirement": "92 Slayer, Completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Hellhounds",
+      "weight": 10,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "75 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Lizardmen",
+      "weight": 10,
+      "minAmount": 130,
+      "maxAmount": 210,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "TzHaar",
+      "weight": 10,
+      "minAmount": 130,
+      "maxAmount": 199,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Black Dragons",
+      "weight": 9,
+      "minAmount": 10,
+      "maxAmount": 20,
+      "requirement": "80 Combat, partial completion of Dragon Slayer I",
+      "extended": "40-60",
+      "locations": null
+    },
+    {
+      "monster": "Cave Kraken",
+      "weight": 9,
+      "minAmount": 100,
+      "maxAmount": 120,
+      "requirement": "87 Slayer, 80 Combat, 50 Magic",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "Dagannoth",
+      "weight": 9,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "75 Combat, completion of Horror from the Deep",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Greater Demons",
+      "weight": 9,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "75 Combat",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Kalphite",
+      "weight": 9,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "15 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 9,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "80 Slayer, 85 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Smoke Devils",
+      "weight": 9,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "93 Slayer, 85 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Aviansie",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 200,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Black Demons",
+      "weight": 8,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "80 Combat",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Bloodveld",
+      "weight": 8,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "50 Slayer, 50 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Drakes",
+      "weight": 8,
+      "minAmount": 50,
+      "maxAmount": 110,
+      "requirement": "84 Slayer",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Gargoyles",
+      "weight": 8,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "75 Slayer, 80 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Red Dragons",
+      "weight": 8,
+      "minAmount": 30,
+      "maxAmount": 65,
+      "requirement": "68 Combat, partial completion of Dragon Slayer I, unlocked the ''Seeing red'' ability via spending 50 Slayer reward points",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Suqahs",
+      "weight": 8,
+      "minAmount": 60,
+      "maxAmount": 90,
+      "requirement": "85 Combat, partial completion of Lunar Diplomacy",
+      "extended": "186-250",
+      "locations": null
+    },
+    {
+      "monster": "Vampyres",
+      "weight": 8,
+      "minAmount": 100,
+      "maxAmount": 210,
+      "requirement": null,
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Warped creatures",
+      "weight": 8,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": null,
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Wyrms",
+      "weight": 8,
+      "minAmount": 100,
+      "maxAmount": 160,
+      "requirement": "62 Slayer",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Aberrant Spectres",
+      "weight": 7,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "60 Slayer, 65 Combat, completion of Priest in Peril",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Basilisks",
+      "weight": 7,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "40 Slayer, unlocked the ''Basilocked'' ability via spending 80 Slayer reward points",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Fire Giants",
+      "weight": 7,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Fossil Island Wyverns",
+      "weight": 7,
+      "minAmount": 20,
+      "maxAmount": 50,
+      "requirement": "66 Slayer, 60 Combat, completion of Bone Voyage, completion of Elemental Workshop I",
+      "extended": "55-75",
+      "locations": null
+    },
+    {
+      "monster": "Gryphons",
+      "weight": 7,
+      "minAmount": 100,
+      "maxAmount": 210,
+      "requirement": "51 Slayer, 45 Sailing, completion of Troubled Tortugans, Unlocked the ''Wings Spread'' ability via spending 80 Slayer reward points",
+      "extended": "180-290",
+      "locations": null
+    },
+    {
+      "monster": "Skeletal Wyverns",
+      "weight": 7,
+      "minAmount": 20,
+      "maxAmount": 40,
+      "requirement": "72 Slayer, 70 Combat, completion of Elemental Workshop I",
+      "extended": "50-70",
+      "locations": null
+    },
+    {
+      "monster": "Spiritual Creatures",
+      "weight": 7,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "63 Slayer, 60 Combat, completion of Death Plateau, level 60 in Agility Strength}} or {{SCP",
+      "extended": "181-250",
+      "locations": null
+    },
+    {
+      "monster": "Trolls",
+      "weight": 6,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "60 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Ankou",
+      "weight": 5,
+      "minAmount": 50,
+      "maxAmount": 80,
+      "requirement": "40 Combat",
+      "extended": "91-150",
+      "locations": null
+    },
+    {
+      "monster": "Aquanites",
+      "weight": 5,
+      "minAmount": 30,
+      "maxAmount": 50,
+      "requirement": "78 Slayer, 73 Sailing, Unlocked the ''Lured In'' ability via spending 80 Slayer reward points",
+      "extended": "150-200",
+      "locations": null
+    },
+    {
+      "monster": "Dust Devils",
+      "weight": 5,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "65 Slayer, 70 Combat, partial completion of Desert Treasure I",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Frost Dragons",
+      "weight": 5,
+      "minAmount": 70,
+      "maxAmount": 120,
+      "requirement": "87 Sailing, 85 Combat",
+      "extended": "180-240",
+      "locations": null
+    },
+    {
+      "monster": "Blue Dragons",
+      "weight": 4,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": "65 Combat, partial completion of Dragon Slayer I",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Cave Horrors",
+      "weight": 4,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "58 Slayer, 85 Combat, completion of Cabin Fever",
+      "extended": "200-250",
+      "locations": null
+    },
+    {
+      "monster": "Elves",
+      "weight": 4,
+      "minAmount": 110,
+      "maxAmount": 170,
+      "requirement": "70 Combat, completion of Regicide",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Kurask",
+      "weight": 4,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "70 Slayer, 65 Combat",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Mutated Zygomites",
+      "weight": 2,
+      "minAmount": 20,
+      "maxAmount": 30,
+      "requirement": "57 Slayer, 60 Combat, completion of Lost City",
+      "extended": null,
+      "locations": null
+    },
+    {
+      "monster": "Waterfiends",
+      "weight": 2,
+      "minAmount": 130,
+      "maxAmount": 200,
+      "requirement": "75 Combat, progressed the Firemaking tasks of the Barbarian Training miniquest up to crafting Pyre ships.",
+      "extended": null,
+      "locations": null
+    }
+  ],
+  "Krystilia": [
+    {
+      "monster": "Abyssal demons",
+      "weight": 5,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": "85 Slayer, completion of Priest in Peril",
+      "extended": "200-250"
+    },
+    {
+      "monster": "Ankou",
+      "weight": 6,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null,
+      "extended": "91-150"
+    },
+    {
+      "monster": "Aviansies",
+      "weight": 7,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": "60 Agility or 60 Strength, Watch the Birdie unlock",
+      "extended": "200-250"
+    },
+    {
+      "monster": "Bandits",
+      "weight": 4,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Bears",
+      "weight": 6,
+      "minAmount": 65,
+      "maxAmount": 100,
+      "requirement": null
+    },
+    {
+      "monster": "Black demons",
+      "weight": 7,
+      "minAmount": 100,
+      "maxAmount": 150,
+      "requirement": null,
+      "extended": "200-250"
+    },
+    {
+      "monster": "Black dragons",
+      "weight": 4,
+      "minAmount": 8,
+      "maxAmount": 16,
+      "requirement": "Partial completion of Dragon Slayer I",
+      "extended": "40-60"
+    },
+    {
+      "monster": "Black Knights",
+      "weight": 4,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Bloodveld",
+      "weight": 4,
+      "minAmount": 70,
+      "maxAmount": 110,
+      "requirement": "50 Slayer, completion of Priest in Peril",
+      "extended": "200-250"
+    },
+    {
+      "monster": "Callisto & Artio",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Chaos Elemental",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Chaos Fanatic",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Crazy archaeologist",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Dark warriors",
+      "weight": 4,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Dust devils",
+      "weight": 5,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": "65 Slayer, completion of Desert Treasure I",
+      "extended": "200-250"
+    },
+    {
+      "monster": "Earth warriors",
+      "weight": 5,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Ents",
+      "weight": 5,
+      "minAmount": 25,
+      "maxAmount": 40,
+      "requirement": null
+    },
+    {
+      "monster": "Fire giants",
+      "weight": 7,
+      "minAmount": 100,
+      "maxAmount": 150,
+      "requirement": null
+    },
+    {
+      "monster": "Greater demons",
+      "weight": 8,
+      "minAmount": 100,
+      "maxAmount": 150,
+      "requirement": null,
+      "extended": "200-250"
+    },
+    {
+      "monster": "Green dragons",
+      "weight": 7,
+      "minAmount": 65,
+      "maxAmount": 100,
+      "requirement": "Partial completion of Dragon Slayer I",
+      "extended": "100-150"
+    },
+    {
+      "monster": "Hellhounds",
+      "weight": 7,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Ice giants",
+      "weight": 6,
+      "minAmount": 100,
+      "maxAmount": 150,
+      "requirement": null
+    },
+    {
+      "monster": "Ice warriors",
+      "weight": 6,
+      "minAmount": 100,
+      "maxAmount": 150,
+      "requirement": null
+    },
+    {
+      "monster": "Jellies",
+      "weight": 5,
+      "minAmount": 70,
+      "maxAmount": 110,
+      "requirement": "52 Slayer"
+    },
+    {
+      "monster": "Lava dragons",
+      "weight": 5,
+      "minAmount": 35,
+      "maxAmount": 60,
+      "requirement": "Partial completion of Dragon Slayer I"
+    },
+    {
+      "monster": "Magic axes",
+      "weight": 4,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Mammoths",
+      "weight": 4,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 5,
+      "minAmount": 70,
+      "maxAmount": 110,
+      "requirement": "80 Slayer, completion of Priest in Peril",
+      "extended": "200-250"
+    },
+    {
+      "monster": "Pirates",
+      "weight": 3,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Revenants",
+      "weight": 5,
+      "minAmount": 40,
+      "maxAmount": 100,
+      "requirement": null,
+      "extended": "100-135"
+    },
+    {
+      "monster": "Rogues",
+      "weight": 5,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": null
+    },
+    {
+      "monster": "Rune dragons",
+      "weight": 2,
+      "minAmount": 30,
+      "maxAmount": 60,
+      "requirement": "Completion of Dragon Slayer II"
+    },
+    {
+      "monster": "Scorpia",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Scorpions",
+      "weight": 4,
+      "minAmount": 65,
+      "maxAmount": 100,
+      "requirement": null
+    },
+    {
+      "monster": "Skeletons",
+      "weight": 5,
+      "minAmount": 65,
+      "maxAmount": 100,
+      "requirement": null
+    },
+    {
+      "monster": "Spiders",
+      "weight": 6,
+      "minAmount": 65,
+      "maxAmount": 100,
+      "requirement": null
+    },
+    {
+      "monster": "Spiritual creatures",
+      "weight": 6,
+      "minAmount": 75,
+      "maxAmount": 125,
+      "requirement": "63 Slayer, Watch the Birdie unlock"
+    },
+    {
+      "monster": "Venenatis & Spindel",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Vet'ion & Calvar'ion",
+      "weight": 8,
+      "minAmount": 3,
+      "maxAmount": 35,
+      "requirement": "Boss task unlock"
+    },
+    {
+      "monster": "Zombies",
+      "weight": 4,
+      "minAmount": 65,
+      "maxAmount": 100,
+      "requirement": null
+    }
+  ],
+  "Mortimer": [
+    {
+      "monster": "Crawling hands",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "5 Slayer"
+    },
+    {
+      "monster": "Cave crawlers",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "10 Slayer"
+    },
+    {
+      "monster": "Banshees",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "15 Slayer"
+    },
+    {
+      "monster": "Rockslugs",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "20 Slayer"
+    },
+    {
+      "monster": "Cockatrice",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "25 Slayer"
+    },
+    {
+      "monster": "Pyrefiends",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "30 Slayer"
+    },
+    {
+      "monster": "Basilisks",
+      "weight": 10,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "extended": "200-250",
+      "requirement": "40 Slayer"
+    },
+    {
+      "monster": "Infernal mages",
+      "weight": 10,
+      "minAmount": 35,
+      "maxAmount": 50,
+      "requirement": "45 Slayer"
+    },
+    {
+      "monster": "Bloodvelds",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 180,
+      "extended": "200-250",
+      "requirement": "50 Slayer"
+    },
+    {
+      "monster": "Gryphons",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "extended": "160-200"
+    },
+    {
+      "monster": "Jellies",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "requirement": "52 Slayer"
+    },
+    {
+      "monster": "Custodian stalkers",
+      "weight": 8,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "extended": "200-250"
+    },
+    {
+      "monster": "Turoth",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "requirement": "55 Slayer"
+    },
+    {
+      "monster": "Warped creatures",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "requirement": "56 Slayer"
+    },
+    {
+      "monster": "Cave horrors",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "extended": "200-250",
+      "requirement": "58 Slayer"
+    },
+    {
+      "monster": "Aberrant spectres",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "extended": "200-250",
+      "requirement": "60 Slayer"
+    },
+    {
+      "monster": "Wyrms",
+      "weight": 10,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "extended": "200-250",
+      "requirement": "62 Slayer"
+    },
+    {
+      "monster": "Dust devils",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 180,
+      "extended": "200-250",
+      "requirement": "65 Slayer"
+    },
+    {
+      "monster": "Kurask",
+      "weight": 10,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "requirement": "70 Slayer"
+    },
+    {
+      "monster": "Venators",
+      "weight": 10,
+      "minAmount": 120,
+      "maxAmount": 180
+    },
+    {
+      "monster": "Gargoyles",
+      "weight": 10,
+      "minAmount": 120,
+      "maxAmount": 180,
+      "extended": "200-250",
+      "requirement": "75 Slayer"
+    },
+    {
+      "monster": "Aquanites",
+      "weight": 10,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "extended": "150-200",
+      "requirement": "78 Slayer"
+    },
+    {
+      "monster": "Nechryael",
+      "weight": 8,
+      "minAmount": 150,
+      "maxAmount": 200,
+      "extended": "200-250",
+      "requirement": "80 Slayer"
+    },
+    {
+      "monster": "Drakes",
+      "weight": 10,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "requirement": "84 Slayer"
+    },
+    {
+      "monster": "Abyssal demons",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 180,
+      "extended": "200-250",
+      "requirement": "85 Slayer"
+    },
+    {
+      "monster": "Dark beasts",
+      "weight": 10,
+      "minAmount": 40,
+      "maxAmount": 60,
+      "extended": "110-135",
+      "requirement": "90 Slayer"
+    },
+    {
+      "monster": "Araxytes",
+      "weight": 8,
+      "minAmount": 120,
+      "maxAmount": 180,
+      "extended": "200-250",
+      "requirement": "92 Slayer"
+    },
+    {
+      "monster": "Smoke devils",
+      "weight": 8,
+      "minAmount": 80,
+      "maxAmount": 120,
+      "requirement": "93 Slayer"
+    },
+    {
+      "monster": "Hydras",
+      "weight": 10,
+      "minAmount": 150,
+      "maxAmount": 200,
+      "requirement": "95 Slayer"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+launch/*.txt text eol=crlf
+launch/READ-ME-FIRST-LINUX-MAC.txt text eol=lf
+launch/*.sh text eol=lf
+gradlew text eol=lf
+*.jar binary
+*.gz binary
+*.mp4 binary
+*.png binary

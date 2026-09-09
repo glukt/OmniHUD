@@ -1,0 +1,26 @@
+.gradle/
+build/
+.cache_etl/
+_local/scripts/__pycache__/
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# Local playtest recordings and agent tooling config
+*.mp4
+.agents/
+
+# Stray image drops at the repo root (icon candidates, screenshots) - the real
+# listing icon is icon.png, the sidebar icon is src/main/resources/.../nav_icon.png
+/*.jpg
+/*.jpeg
+
+# Large scraper caches - regenerable via scripts/, not read by the plugin
+_local/scripts/wiki_monster_pages.json
+_local/scripts/extracted_wiki_spawns.json
+
+# Local-only working notes / agent config (never published)
+docs/
+_local/
+scripts/

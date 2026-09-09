@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE suppressions PUBLIC
+	"-//Checkstyle//DTD SuppressionFilter Configuration 1.1//EN"
+	"https://checkstyle.org/dtds/suppressions_1_1.dtd">
+<!--
+	Minimal suppressions. Generated / vendored sources and the test tree are exempt so
+	checkstyleMain stays a signal about hand-written production code. Add narrow entries
+	here rather than loosening checkstyle.xml.
+-->
+<suppressions>
+	<suppress files="[/\\]build[/\\]" checks=".*"/>
+	<suppress files="[/\\]src[/\\]test[/\\]" checks="LineLength|EmptyLineSeparator"/>
+</suppressions>

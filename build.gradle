@@ -1,0 +1,91 @@
+plugins {
+    id 'java'
+    id 'checkstyle'
+}
+
+repositories {
+    maven {
+        url = 'https://repo.runelite.net'
+        content {
+            includeGroupByRegex("net\\.runelite.*")
+        }
+    }
+    maven {
+        url = 'https://repo1.maven.org/maven2'
+    }
+    mavenCentral()
+}
+
+// Pinned so every tester builds against the exact client this was verified on. Bump
+// deliberately (and re-run the full test suite) when moving to a newer RuneLite.
+// Matches the version the Plugin Hub packager builds against (plugin-hub/runelite.version).
+def runeLiteVersion = '1.12.38'
+
+dependencies {
+    compileOnly group: 'net.runelite', name: 'client', version: runeLiteVersion
+    compileOnly 'org.projectlombok:lombok:1.18.30'
+    annotationProcessor 'org.projectlombok:lombok:1.18.30'
+
+    // Testing
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'org.mockito:mockito-core:4.11.0'
+    testImplementation group: 'net.runelite', name: 'client', version: runeLiteVersion
+    testImplementation group: 'net.runelite', name: 'jshell', version: runeLiteVersion
+    testCompileOnly 'org.projectlombok:lombok:1.18.30'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.30'
+}
+
+group = 'com.osrscopilot'
+version = '0.1.0'
+
+// RuneLite's own checkstyle ruleset (config/checkstyle). Wired non-fatal on purpose:
+// `checkstyleMain` now runs and reports, but violations don't break `clean test` / `check`.
+// Getting the count to zero is future work - see config/checkstyle/checkstyle.xml.
+checkstyle {
+    toolVersion = '10.12.4'
+    configDirectory = file("$rootDir/config/checkstyle")
+    ignoreFailures = true
+    maxWarnings = 100000
+    maxErrors = 100000
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release.set(11)
+}
+
+test {
+    useJUnit()
+    maxHeapSize = "2048m"
+    binaryResultsDirectory.set(layout.buildDirectory.dir("test-results-bin"))
+    jvmArgs "-Djava.awt.headless=false", "-XX:+TieredCompilation", "-XX:TieredStopAtLevel=1"
+    systemProperty "java.awt.headless", "false"
+    testLogging {
+        events "failed", "passed", "skipped"
+        exceptionFormat "full"
+    }
+}
+
+tasks.register('runTestClient', JavaExec) {
+    group = "application"
+    description = "Launches the test RuneLite client with the OmniHUD plugin."
+    classpath = sourceSets.main.runtimeClasspath + sourceSets.test.runtimeClasspath
+    mainClass.set('com.osrscopilot.OsrsCopilotPluginTest')
+    enableAssertions = true
+    jvmArgs "-ea", "-Xmx1024m", "-XX:+UseG1GC"
+    args "--developer-mode", "--debug"
+    standardInput = System.in
+}
+
+tasks.register('runUnitTests', JavaExec) {
+    group = "verification"
+    description = "Runs unit tests directly using JUnitCore."
+    classpath = sourceSets.main.runtimeClasspath + sourceSets.test.runtimeClasspath
+    mainClass.set('org.junit.runner.JUnitCore')
+    args = [
+        'com.osrscopilot.ShopDirectorySpreadsheetDialogTest',
+        'com.osrscopilot.SpreadsheetDialogTest'
+    ]
+    jvmArgs "-Djava.awt.headless=false", "-XX:+TieredCompilation", "-XX:TieredStopAtLevel=1"
+    systemProperty "java.awt.headless", "false"
+}
